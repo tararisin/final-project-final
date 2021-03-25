@@ -1,0 +1,38 @@
+
+body {
+    display: inline;
+    margin-top: 0px;
+    background-color: black;
+}
+img {
+    position: absolute;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+    margin: 36px 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+    margin-left: 196px;
+   
+  }
+  
+  li {
+      
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+    margin-block: inherit;
+  }
