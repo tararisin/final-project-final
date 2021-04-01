@@ -7,13 +7,14 @@ body {
 
 
 
-hero-image {
+.hero-image {
   
+  background: url("https://dl.dropboxusercontent.com/s/gkmlhwwwwwnd3f1/hero.png?dl=0");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  height: 50%;
+  height: 788px;
  
 }
 
